@@ -1,6 +1,6 @@
-## Open Tab On The Right (Chrome Extension)
- - just open new tab on the left of current tab
- - Default new tab is created the end of tabs
+## Open Tab On The Left (Chrome Extension)
+ - open new tab on the left of current tab
+ - default new tab is created the end of tabs
 
 ## Shortcut
  - default: Alt+T
