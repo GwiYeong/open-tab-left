@@ -1,0 +1,19 @@
+{
+  "name": "Open Tab Left",
+  "description": "Open new tab on the left of current tab",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["activeTab"],
+  "action": {},
+  "commands": {
+    "open-tab-left": {
+      "suggested_key": {
+        "default": "Alt+T"
+      },
+      "description": "Open Tab Left"
+    }
+  }
+}
